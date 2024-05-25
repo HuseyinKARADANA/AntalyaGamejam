@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|c:\\users\\huseyinkaradana\\desktop\\kedigozu\\assets\\script\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\assets\\script\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|c:\\users\\huseyinkaradana\\desktop\\kedigozu\\assets\\pause_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|solutionrelative:assets\\pause_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|c:\\users\\huseyinkaradana\\desktop\\kedigozu\\assets\\script\\nasiloynanir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\nasiloynanir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\assets\\script\\animcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1C0672-4993-973D-24AB-DE7D5F289519}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\huseyinkaradana\\desktop\\kedigozu\\assets\\pause_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\pause_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +46,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nasiloynanir.cs",
+              "DocumentMoniker": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\nasiloynanir.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\nasiloynanir.cs",
+              "ToolTip": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\nasiloynanir.cs",
+              "RelativeToolTip": "Assets\\Script\\nasiloynanir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:19:20.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimControl.cs",
+              "DocumentMoniker": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\AnimControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AnimControl.cs",
+              "ToolTip": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\AnimControl.cs",
+              "RelativeToolTip": "Assets\\Script\\AnimControl.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:50:41.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraController.cs",
+              "ToolTip": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwFQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:51:39.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:44:31.167Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PauseManager.cs",
               "DocumentMoniker": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\PauseManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PauseManager.cs",
               "ToolTip": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Script\\PauseManager.cs",
               "RelativeToolTip": "Assets\\Script\\PauseManager.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T07:24:40.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Pause_Menu.cs",
               "DocumentMoniker": "C:\\Users\\huseyinkaradana\\Desktop\\KediGozu\\Assets\\Pause_Menu.cs",
               "RelativeDocumentMoniker": "Assets\\Pause_Menu.cs",
@@ -51,8 +116,7 @@
               "RelativeToolTip": "Assets\\Pause_Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T06:58:22.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T06:58:22.019Z"
             }
           ]
         },
